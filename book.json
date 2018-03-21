@@ -1,0 +1,52 @@
+{
+    "root": "./docs",
+    "title": "系统动力学导入手册",
+    "language": "zh",
+    "plugins": [
+    	"expandable-chapters-small",
+        "atoc",
+        "disqus",
+        "github-buttons",
+        "editlink",
+        "image-captions"
+    ],
+    "pluginsConfig": {
+    	"expandable-chapters-small":{},
+    	"atoc": {
+            "addClass": true,
+            "className": "atoc"
+        },
+        "disqus": {
+          "shortName": "blog-zhangliaoyuan-com-systemdynamics"
+        },
+        "github-buttons": {
+          "repo": "systemdynamicscommunity/systemdynamics",
+          "types": [
+            "star",
+            "watch"
+          ],
+          "size": "small",
+          "width": 90,
+          "height": 21
+        },
+        "editlink": {
+          "base": "https://github.com/systemdynamicscommunity/systemdynamics/blob/master/docs",
+          "label": "编辑本页"
+        },
+        "image-captions": {
+          "caption": "图 - _PAGE_LEVEL_._PAGE_IMAGE_NUMBER_ - _CAPTION_",
+          "align": "center"
+        }
+    },
+    "styles": {
+        "website": "styles/website.css",
+        "ebook": "styles/ebook.css",
+        "pdf": "styles/pdf.css",
+        "mobi": "styles/mobi.css",
+        "epub": "styles/epub.css"
+    },
+    "pdf": {
+        "headerTemplate": "Header of the PDF with _TITLE_",
+        "footerTemplate": "Footer HTML template. Available variables: _PAGENUM_, _TITLE_, _AUTHOR_ and _SECTION_."
+    }
+}

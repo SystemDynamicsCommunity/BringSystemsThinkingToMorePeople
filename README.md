@@ -1,6 +1,6 @@
 # 把系统思考带给更多人
 
-![master status](https://travis-ci.org/SystemDynamicsCommunity/systemdynamics.svg?branch=master)
+![master status](https://travis-ci.org/SystemDynamicsCommunity/BringSystemsThinkingToMorePeople.svg?branch=master)
 
 此代码库用于“把系统思考带给更多人”相关信息的发布分享，对任何感兴趣的人都开放。
 

@@ -1,6 +1,6 @@
 {
     "root": "./docs",
-    "title": "系统动力学导入手册",
+    "title": "把系统思考带给更多人",
     "language": "zh",
     "plugins": [
     	"expandable-chapters-small",
@@ -17,10 +17,10 @@
             "className": "atoc"
         },
         "disqus": {
-          "shortName": "blog-zhangliaoyuan-com-systemdynamics"
+          "shortName": "BringSystemsThinkingToMorePeople"
         },
         "github-buttons": {
-          "repo": "systemdynamicscommunity/systemdynamics",
+          "repo": "systemdynamicscommunity/BringSystemsThinkingToMorePeople",
           "types": [
             "star",
             "watch"
@@ -30,7 +30,7 @@
           "height": 21
         },
         "editlink": {
-          "base": "https://github.com/systemdynamicscommunity/systemdynamics/blob/master/docs",
+          "base": "https://github.com/systemdynamicscommunity/BringSystemsThinkingToMorePeople/master/docs",
           "label": "编辑本页"
         },
         "image-captions": {

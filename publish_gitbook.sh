@@ -14,10 +14,10 @@ rev=$(git rev-parse --short HEAD)
 cd _book
 
 git init
-git config user.name "Eric Zhang"
-git config user.email "zhang.lyuan@gmail.com"
+git config user.name "yilv"
+git config user.email "yi.lv@odd-e.com"
 
-git remote add upstream "https://$GITHUB_TOKEN@github.com/SystemDynamicsCommunity/systemdynamics.git"
+git remote add upstream "https://$GITHUB_TOKEN@github.com/SystemDynamicsCommunity/BringSystemsThinkingToMorePeople.git"
 git fetch upstream
 git reset upstream/gh-pages
 

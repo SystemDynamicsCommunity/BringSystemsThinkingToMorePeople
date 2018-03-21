@@ -5,9 +5,7 @@
     "plugins": [
     	"expandable-chapters-small",
         "atoc",
-        "disqus",
         "github-buttons",
-        "editlink",
         "image-captions"
     ],
     "pluginsConfig": {
@@ -15,9 +13,6 @@
     	"atoc": {
             "addClass": true,
             "className": "atoc"
-        },
-        "disqus": {
-          "shortName": "BringSystemsThinkingToMorePeople"
         },
         "github-buttons": {
           "repo": "systemdynamicscommunity/BringSystemsThinkingToMorePeople",
@@ -28,10 +23,6 @@
           "size": "small",
           "width": 90,
           "height": 21
-        },
-        "editlink": {
-          "base": "https://github.com/systemdynamicscommunity/BringSystemsThinkingToMorePeople/master/docs",
-          "label": "编辑本页"
         },
         "image-captions": {
           "caption": "图 - _PAGE_LEVEL_._PAGE_IMAGE_NUMBER_ - _CAPTION_",
